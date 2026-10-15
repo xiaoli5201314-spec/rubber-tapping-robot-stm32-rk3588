@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "Graduation project",
+  "description": {
+    "": "Four-post lift layout concept based on the purchased tracked chassis."
+  },
+  "supportedOS": "windows",
+  "version": "1.0.0"
+}

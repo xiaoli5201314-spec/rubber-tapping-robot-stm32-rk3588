@@ -1,0 +1,6 @@
+-r upper_computer/web_link_host/requirements.txt
+pytest>=8,<10
+Pillow>=10
+unicorn>=2,<3
+pyserial>=3.5,<4
+ziglang==0.16.0
